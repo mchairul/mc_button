@@ -1,7 +1,7 @@
 name: mc_button
 description: "Simple Gradient Button."
 version: 0.0.1
-homepage:
+homepage: https://github.com/mchairul/mc_button
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
